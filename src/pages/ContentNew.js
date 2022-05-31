@@ -1,15 +1,15 @@
 import React from "react";
-import sub1 from "../sub_tin_tuc/sub1.jpg"
-import sub2 from "../sub_tin_tuc/sub2.jpg"
-import sub3 from "../sub_tin_tuc/sub3.jpg"
-import sub4 from "../sub_tin_tuc/sub4.jpg"
-import sub5 from "../sub_tin_tuc/sub5.jpg"
-import sub6 from "../sub_tin_tuc/sub6.png"
-import sub7 from "../sub_tin_tuc/sub7.png"
-import sub8 from "../sub_tin_tuc/sub8.png"
-import sub9 from "../sub_tin_tuc/sub9.jpg"
-import sub10 from "../sub_tin_tuc/sub10.png"
-import content_img from "../tin_tuc_img.jpg"
+import sub1 from "../images/sub1.jpg"
+import sub2 from "../images/sub2.jpg"
+import sub3 from "../images/sub3.jpg"
+import sub4 from "../images/sub4.jpg"
+import sub5 from "../images/sub5.jpg"
+import sub6 from "../images/sub6.png"
+import sub7 from "../images/sub7.png"
+import sub8 from "../images/sub8.png"
+import sub9 from "../images/sub9.jpg"
+import sub10 from "../images/sub10.png"
+import content_img from "../images/tin_tuc_img.jpg"
 
 function Content() {
     return (

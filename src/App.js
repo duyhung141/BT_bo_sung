@@ -1,20 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
-import { Header } from './components/Header';
-import { HeaderBt } from './components/HeaderBt';
-import { Footer } from './components/Footer';
-import Content from './components/Content';
-import Page_number from './components/Page_number';
+import {
+  BrowserRouter,
+  Routes,
+  Route,
+} from "react-router-dom";
+import Home from './pages/Index';
+import Tintuc from './pages/Tintuc';
+
 function App() {
-  
   return (
+
     <div className="App">
-      <Header />
-      <HeaderBt />
-      <Content />
-      <Page_number />
-      <Footer />
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home />} /> 
+          <Route path="/tintuc" element={<Tintuc />} /> 
+        </Routes>
+      </BrowserRouter>
+
+
     </div>
+
   );
 }
 

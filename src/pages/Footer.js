@@ -1,5 +1,5 @@
 import React from "react";
-import icon_foot from "../logo_footer.png";
+import icon_foot from "../images/logo_footer.png";
 
 export function Footer() {
   return (

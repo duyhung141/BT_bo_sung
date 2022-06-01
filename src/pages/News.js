@@ -25,7 +25,7 @@ export function News() {
                                 </div>
                                 <div class="p-4">
 
-                                    <h5 class="text-gray-900 text-lg  mb-2 h-12 pt-7 font-bold" >
+                                    <h5 class="text-gray-900 text-lg  mb-2 h-12 pt-3 font-bold" >
                                         Lễ ra mắt  “Trung tâm Công nghệ và Giải pháp Chuyển đổi</h5>
                                     <p class="text-gray-700 text-xs pt-8 ">
                                         Thời gian: 9:45 AM - 01/06/2022

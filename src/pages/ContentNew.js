@@ -41,9 +41,10 @@ function Content() {
                         </li>
                     </ul>
                 </div>
+                {/* <div><img src={content_img}></img> </div> */}
+
                 <div class="grid grid-cols-3 gap-12 col-span-3">
-                    {/* <div><img src={content_img}></img> </div> */}
-                    
+
                     <div className="noi-dung grid grid-cols-2 gap-8 col-span-2">
                         <div class="flex w-auto">
                             <div class="rounded-lg shadow-lg bg-white max-w-xs">
@@ -209,7 +210,7 @@ function Content() {
                                     <a class=" text-sm py-4 px-6 h-auto " href="#!">DẤU ẤN CNTT BÁCH KHOA TRONG 15 MÙA NHÂN TÀI ĐẤT VIỆT</a>
                                 </li>
                             </ul>
-                            
+
                             <h2 class="text-2xl mb-1.5 font-semibold">Bài viết mới nhất</h2>
                             <ul class="max-w-xs h-auto text-left ">
                                 <li class="">

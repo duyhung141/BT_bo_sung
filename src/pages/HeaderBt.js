@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export function HeaderBt() {
   return (
-    <nav className="navbar navbar-expand-lg shadow-lg md:flex  bg-zinc-800 z-50 sticky top-0 flex items-center w-full justify-between border-t-4 border-red-600 md:pl-80">
+    <nav className="navbar navbar-expand-lg shadow-lg md:flex  bg-zinc-800 z-50 sticky top-0 flex items-center w-full justify-between border-t-4 border-red-600 md:pl-11">
       <div className="px-6 max-w-screen-lg">
         <button className="navbar-toggler border-0 py-3 lg:hidden leading-none text-xl bg-transparent text-white hover:text-gray-700 focus:text-gray-700 transition-shadow duration-150 ease-in-out" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContentX" aria-controls="navbarSupportedContentX" aria-expanded="false" aria-label="Toggle navigation">
           <svg aria-hidden="true" focusable="false" data-prefix="fas" className="w-5" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
